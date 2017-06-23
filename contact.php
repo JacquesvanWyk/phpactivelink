@@ -1,4 +1,4 @@
-<?php $page = 'contact';include 'include\header.php'; ?>
+<?php $page = 'contact';include 'include/header.php'; ?>
 <hr>
     <div class="container">
 
