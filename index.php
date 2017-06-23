@@ -1,4 +1,4 @@
-<?php $page = 'home';include 'include\header.php'; ?>
+<?php $page = 'home';include 'include/header.php'; ?>
 
     <div class="container">
 
