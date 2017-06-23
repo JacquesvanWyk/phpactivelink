@@ -1,4 +1,4 @@
-<?php $page = 'about';include 'include\header.php'; ?>
+<?php $page = 'about';include 'include/header.php'; ?>
 <hr>
     <div class="container">
 
